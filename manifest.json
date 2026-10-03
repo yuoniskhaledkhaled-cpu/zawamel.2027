@@ -1,0 +1,16 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "زوامل عيسى الليث 2027",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "زوامل 2027",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "com.younis.zawamel2027",
+  "description": "تطبيق رسمي لزوامل عيسى الليث 2027.",
+  "categories": [
+    "music"
+  ]
+}
